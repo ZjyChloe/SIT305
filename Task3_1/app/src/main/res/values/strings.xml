@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task3.1</string>
+    <string name="sit305_quiz_app">SIT305 Quiz App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="start">start</string>
+    <string name="welcome">Welcome</string>
+    <string name="questionContent1">What is the largest plain in the world?</string>
+    <string name="ques1_option3">Amazon Plains</string>
+    <string name="ques1_option2">North American Great Plains</string>
+    <string name="ques1_option1">Ganges plain</string>
+    <string name="submit">Submit</string>
+    <string name="endTiele">Congratulations your name!</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="tour_score">TOUR SCORE:</string>
+</resources>
